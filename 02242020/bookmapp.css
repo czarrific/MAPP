@@ -1,0 +1,35 @@
+.bookmappbg {
+    background-color: rgb(134, 192, 240);
+    
+}
+
+.bookmappcomponents {
+    width: 1150px;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 15px;
+    margin: auto;
+    background-color: rgb(154, 217, 234);
+    
+}
+.avt {
+    text-align: center;
+}
+
+.navColor {
+    background-color: rgb(134, 192, 240);
+}
+
+.toastPosition {
+
+    width: 300px;
+    max-width: 60%;
+    max-height: 40%;
+    padding: 15px;
+    margin: auto;
+    position: relative;
+    margin-bottom: -10em;
+    left: 1em;
+
+}
+

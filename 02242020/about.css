@@ -1,0 +1,23 @@
+.about-form {
+
+    height: 1000;
+    width: 100%;
+    background-color: rgb(134, 192, 240);
+  
+  }
+
+.about-components {
+  
+    width: 100;
+    max-width: 38%;
+    max-height: 30%;
+    padding: 15px;
+    margin: auto;
+    background-color: #9AD9EA;
+   
+
+  }
+  .navColor {
+    background-color: rgb(134, 192, 240);
+  
+  }
